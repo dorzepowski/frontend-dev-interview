@@ -1,0 +1,31 @@
+{
+  "name": "frontend-dev-interview",
+  "description": "Frontend Developer Job Interview exam application\r ===================================================",
+  "main": "server.js",
+  "authors": [
+    "Interviewed Person"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "interview",
+    "job",
+    "inteview",
+    "frontend",
+    "job",
+    "interview",
+    "frontend",
+    "developer",
+    "test",
+    "excercise"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

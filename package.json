@@ -1,0 +1,28 @@
+{
+  "name": "frontend-dev-interview",
+  "version": "1.0.0",
+  "description": "Frontend Developer Job Interview exam application\r ===================================================",
+  "main": "server.js",
+  "scripts": {
+    "postinstall": "bower install && npm start"
+  },
+  "keywords": [
+    "frontend",
+    "interview",
+    "job",
+    "inteview",
+    "frontend",
+    "job",
+    "interview",
+    "frontend",
+    "developer",
+    "test",
+    "excercise"
+  ],
+  "author": "Damian Orzepowski",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.14.0"
+  }
+}
